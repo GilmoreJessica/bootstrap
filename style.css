@@ -1,0 +1,17 @@
+html{
+  text-align: center;
+}
+
+.container{
+  background-color: white;
+  margin-top: 24px;
+  }
+
+.amenities{
+  margin-top: 24px;
+  background-image: url(images/background.png);
+}
+
+h5{
+  color: white;
+ }
